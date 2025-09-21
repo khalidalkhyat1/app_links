@@ -1,4 +1,4 @@
-name: app_links_workspace
+name: app_links
 
 environment:
   sdk: ^3.5.0
