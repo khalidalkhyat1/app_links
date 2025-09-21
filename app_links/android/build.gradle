@@ -25,7 +25,8 @@ apply plugin: 'com.android.library'
 android {
     namespace 'com.llfbandit.app_links'
 
-    compileSdk = flutter.compileSdkVersion
+    // استبدل السطر القديم برقم ثابت
+    compileSdkVersion 34
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_11
