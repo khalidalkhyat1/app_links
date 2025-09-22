@@ -1,4 +1,5 @@
 name: app_links
+version: 3.5.0
 
 environment:
   sdk: ^3.5.0
